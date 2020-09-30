@@ -17,7 +17,7 @@
   position: absolute;
   width: 2%;
   height: 2%;
-  background: red;
-  border: 1px solid #fff;
+  background: green;
+  border: 1px solid gray;
   z-index: 1;
 }
