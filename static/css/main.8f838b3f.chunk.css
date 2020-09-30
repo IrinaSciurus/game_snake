@@ -1,0 +1,2 @@
+.gameArea{position:relative;margin:50px auto;width:600px;height:600px;border:2px solid #000}.snakeDot{background-color:#000;border:1px solid #fff;z-index:2}.snakeDot,.snakeFood{position:absolute;width:2%;height:2%}.snakeFood{background:green;border:1px solid grey;z-index:1}
+/*# sourceMappingURL=main.8f838b3f.chunk.css.map */
