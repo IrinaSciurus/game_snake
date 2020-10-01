@@ -61,7 +61,7 @@ function App() {
         return () => {
             document.removeEventListener('keydown', onKeyDown);
         }
-    });
+    },[]);
 
      useEffect( () => {
             let head = snakeDots[snakeDots.length-1];
